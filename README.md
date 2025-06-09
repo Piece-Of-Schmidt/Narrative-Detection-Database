@@ -1,5 +1,9 @@
 # Narrative Detection using LLMs
 
+
+[![DOI](https://zenodo.org/badge/997336410.svg)](https://doi.org/10.5281/zenodo.15622517)
+
+
 This repository contains evaluation data accompanying the paper  
 **"Identifying economic narratives in large text corpora – An integrated approach using Large Language Models"**  
 (*Ruhr Economics Paper*, 2025).
