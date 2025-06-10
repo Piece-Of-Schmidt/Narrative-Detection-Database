@@ -6,7 +6,7 @@
 
 This repository contains evaluation data accompanying the paper  
 **"Identifying economic narratives in large text corpora – An integrated approach using Large Language Models"**  
-(*Ruhr Economics Paper*, 2025).
+(*Ruhr Economic Papers*, 2025).
 
 The project explores how Large Language Models (LLMs), specifically GPT-4o, can be used to extract economic narratives from newspaper articles. We focus on inflation-related narratives found in articles from *The Wall Street Journal* and *The New York Times*. The extracted narratives are compared to a carefully annotated gold standard created by three expert coders.
 
@@ -23,7 +23,7 @@ The project explores how Large Language Models (LLMs), specifically GPT-4o, can 
 
 > Tobias Schmidt, Kai-Robin Lange, Matthias Reccius, Henrik Müller, Michael Roos, and Carsten Jentsch (2025).  
 > *Identifying economic narratives in large text corpora – An integrated approach using Large Language Models*.  
-> Ruhr Economics Paper. [2025]
+> Ruhr Economic Papers. [2025]
 
 If you are interested in the methods or evaluation procedures, please refer to the full paper.
 
